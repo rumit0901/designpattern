@@ -1,0 +1,2 @@
+Aspect Oriented Programming(AOP) https://gpcoder.com/5112-gioi-thieu-aspect-oriented-programming-aop/
+Using JDK Proxy (Interface base)
